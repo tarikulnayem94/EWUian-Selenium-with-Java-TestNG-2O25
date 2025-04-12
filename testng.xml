@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="EWUian_with_TestNG">
+    <classes>
+      <class name="EWUian.login"/>
+      <class name="EWUian.SuccessStoryPreview"/>
+      <class name="EWUian.personal_Information"/>
+      <class name="EWUian.ScrollPage"/>
+      <class name="EWUian.JobSearch"/>
+      <class name="EWUian.dateOfBirth"/>
+      <class name="EWUian.caseRegistration"/>
+      <class name="EWUian.Registrations"/>
+    </classes>
+  </test> <!-- EWUian_with_TestNG -->
+</suite> <!-- Suite -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="EWUian_with_TestNG(failed)">
+    <classes>
+      <class name="EWUian.login">
+        <methods>
+          <include name="inportpersonalInformation"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- EWUian.login -->
+      <class name="EWUian.personal_Information">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="personalInformation2"/>
+          <include name="personalInformation3"/>
+          <include name="personalInformation"/>
+          <include name="inportdateOfBirth"/>
+        </methods>
+      </class> <!-- EWUian.personal_Information -->
+      <class name="EWUian.dateOfBirth">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="chooseDateOfBirth"/>
+        </methods>
+      </class> <!-- EWUian.dateOfBirth -->
+      <class name="EWUian.ScrollPage">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="scroll"/>
+        </methods>
+      </class> <!-- EWUian.ScrollPage -->
+    </classes>
+  </test> <!-- EWUian_with_TestNG(failed) -->
+</suite> <!-- Failed suite [Suite] -->

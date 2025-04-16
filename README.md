@@ -1,4 +1,6 @@
 # Selenium with TestNG
+
+<p align="justify">
 A web application testing - using 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗗𝗿𝗶𝘃𝗲𝗿 𝘄𝗶𝘁𝗵 𝗝𝗮𝘃𝗮 - This repository contains automated functional tests for a web application using Selenium WebDriver with Java and 𝐓𝐞𝐬𝐭𝐍𝐆. The tests cover various UI interactions, validations, and workflows to ensure the application's reliability.
 
 <h3 align="left"><b>Technology used: </h3>
@@ -12,6 +14,7 @@ A web application testing - using 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯�
 This testing framework is to ensure the reliability and correctness of the application's functionality by isolating and validating individual components. 
 Functional/Unit testing plays a crucial role in the software development lifecycle by identifying defects early, reducing debugging efforts, and improving overall code quality.
 
+</p>
 Report: 
 
 ![image](https://github.com/user-attachments/assets/a25c8424-8742-4458-9774-13155b5c167a)

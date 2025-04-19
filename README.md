@@ -9,10 +9,10 @@ A web application testing - using 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯�
 2. Selenium webdriver with 𝐓𝐞𝐬𝐭𝐍𝐆 using 𝐉𝐚𝐯𝐚 
 
 <h3 align="left"><b>About the Project: </h3>
-<p>
 
+<p align="justify">
 This testing framework is to ensure the reliability and correctness of the application's functionality by isolating and validating individual components. 
-Functional/Unit testing plays a crucial role in the software development lifecycle by identifying defects early, reducing debugging efforts, and improving overall code quality.
+Functional/Unit testing plays a crucial role in the software development lifecycle. It identifies defects early, reduces debugging efforts, and improves overall code quality.
 
 </p>
 Report: 
